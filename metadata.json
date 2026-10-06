@@ -1,0 +1,6 @@
+{
+  "name": "WebExtractor Studio - React, Next.js & HTML Source Downloader",
+  "description": "Extract full website source code, convert to React and Next.js projects, inspect HTML/CSS/JS, and download complete project ZIP archives right from your mobile or desktop browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
